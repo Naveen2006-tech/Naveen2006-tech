@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Naveena_K&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f2027,50:203a43,100:2c5364&text=Naveena K&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=RTL+Design+Engineer+in+Progress;FPGA+Developer;Verilog+HDL+Designer;Future+ASIC+Engineer;Building+Digital+Systems+Every+Day"/>
 
