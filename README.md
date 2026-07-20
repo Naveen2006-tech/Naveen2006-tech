@@ -39,7 +39,9 @@ To become an RTL Design Engineer and contribute to next-generation semiconductor
 
 ![Python](https://skillicons.dev/icons?i=python)
 
-![Github](https://skillicons.dev/icons?i=github)
+![C++](https://skillicons.dev/icons?i=C++)
+
+![VHDL](https://skillicons.dev/icons?i=VHDL)
 
 ### 🔧 FPGA & Hardware
 
@@ -101,7 +103,7 @@ To become an RTL Design Engineer and contribute to next-generation semiconductor
 
 <p align="left">
 
-<a href="linkedin.com/in/naveenak2006">
+<a href="www.linkedin.com/in/naveenak2006">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
