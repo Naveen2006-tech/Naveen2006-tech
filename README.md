@@ -1,112 +1,122 @@
 <div align="center">
 
-# 👋 Hi, I'm Naveena_K
+# 👋 Hello, I'm Naveena K
 
-### 🚀 Electronics & Communication Engineering Student
-### 💻 RTL Design | FPGA | Verilog HDL | VLSI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=RTL+Design+Engineer+%F0%9F%9A%80;FPGA+Developer+%F0%9F%94%A5;Verilog+HDL+Programmer;Future+VLSI+Engineer;Building+Digital+Systems+One+Clock+Cycle+at+a+Time" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=RTL+Design+Engineer+in+Progress;FPGA+Developer;Verilog+HDL+Programmer;Future+VLSI+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=RTL%20|%20FPGA%20|%20VLSI&fontSize=40&fontColor=ffffff"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 B.E. Electronics & Communication Engineering
+🎓 **B.E. Electronics & Communication Engineering**
 
-💡 Passionate about Digital Electronics, FPGA and VLSI
+💻 Passionate about
 
-🌱 Currently Learning
+- RTL Design
+- FPGA Design
+- Digital Logic
+- ASIC Design
+- Verification
+- VLSI
+
+🎯 **Mission**
+
+To become an RTL Design Engineer and contribute to next-generation semiconductor products at:
+
+🏆 AMD • NVIDIA • Qualcomm • Intel • Synopsys • Cadence
+
+---
+
+# ⚡ Tech Stack
+
+### 💻 Languages
+
+![C](https://skillicons.dev/icons?i=c)
+
+![Python](https://skillicons.dev/icons?i=python)
+
+![Github](https://skillicons.dev/icons?i=github)
+
+### 🔧 FPGA & Hardware
 
 - Verilog HDL
-- FPGA Design (Vivado)
+- Vivado
+- Artix-7 FPGA
+- Digital Electronics
 - RTL Design
-- Digital Logic Design
-- Data Structures in C
-
-🎯 Career Goal
-
-> To become an RTL Design Engineer and contribute to companies like AMD, NVIDIA, Qualcomm, Intel, Synopsys and Cadence.
 
 ---
 
-# 🛠️ Tech Stack
+# 📈 GitHub Analytics
 
-### Languages
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Naveen2006-tech&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-HDL-red?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen2006-tech&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Tools
-
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-E01F27?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-# 🚀 Featured Projects
-
-- ⏰ FPGA Digital Clock
-- 📡 I²C Master Controller
-- 🔢 Binary to BCD Converter
-- ⚡ Verilog Mini Projects
-- 📚 Data Structures Using C
-- 📄 Technical Paper Presentation
-
----
-
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Naveen2006-tech&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Naveen2006-tech&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveen2006-tech&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Naveen2006-tech&theme=tokyonight&hide_border=true"/>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Naveen2006-tech&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Naveen2006-tech&theme=algolia&no-frame=true&row=1)
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen2006-tech&theme=tokyo-night)](https://github.com/Naveen2006-tech)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naveen2006-tech&theme=react-dark)](https://github.com/Naveen2006-tech)
 
 ---
 
-# 💻 Areas of Interest
+# 💼 Featured Projects
+
+🚀 FPGA Digital Clock
+
+🔢 Binary to BCD Converter
+
+📚 Data Structures in C
+
+🖥 Verilog Mini Projects
+
+---
+
+# 🌱 Currently Learning
 
 ✔ RTL Design
 
-✔ FPGA Design
+✔ FPGA Prototyping
 
-✔ VLSI
+✔ SystemVerilog
 
-✔ Digital Electronics
-
-✔ Embedded Systems
-
-✔ Verification (Learning)
+✔ ASIC Design Flow
 
 ---
 
-# 📫 Connect with Me
+# 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](linkedin.com/in/naveenak2006)
+<p align="left">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:naveenkrishnamurthy2006@gmail.com)
+<a href="linkedin.com/in/naveenak2006">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:naveenkrishnamurthy2006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 "Designing Digital Hardware for Tomorrow"
 
-![](https://komarev.com/ghpvc/?username=Naveen2006-tech&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Naveen2006-tech&style=for-the-badge&color=blue"/>
 
 </div>
